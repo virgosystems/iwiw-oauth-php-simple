@@ -1,4 +1,7 @@
 <?php
+/**
+ * This file is for pecl oauth package connecting to iwiw the Hungarian social network site 
+ */
 $conskey = '<consumer_key>';
 $conssec = '<consumer_secret>';
 
